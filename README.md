@@ -24,4 +24,7 @@ yarn start
 
 `loclahost:5000` - Returns `{"data": "Pong!"}`.
 
-Read requirements: https://github.com/clickclickdrive/sysops-interview-task/edit/master/requirements.md
+
+## More info
+
+Read requirements: https://github.com/clickclickdrive/sysops-interview-task/blob/master/requirements.MD
