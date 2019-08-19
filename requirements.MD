@@ -7,10 +7,9 @@ You can choose your preferred technologies and frameworks, only condition is tha
 
 Beside the setup itself, we would appreciate documentation explaining why you chosen your solutions and possibly you can describe what can be improved (especially in case the full solution would be extremely time consuming). 
 
+Use this empty GCP project to build the solution: https://console.cloud.google.com/kubernetes/list?project=test-project-michael&organizationId=963752445145 
+
 Anytime you can contact us for questions and specific details of the test. 
-
-Here is link to empty GCP project: https://console.cloud.google.com/kubernetes/list?project=test-project-michael&organizationId=963752445145 
-
 
 
 # Requirements: 
